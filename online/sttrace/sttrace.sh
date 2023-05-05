@@ -1,0 +1,2 @@
+cargo build
+cargo run -- 20081023025304-0.plt 0.2 20081023025304-0.csv

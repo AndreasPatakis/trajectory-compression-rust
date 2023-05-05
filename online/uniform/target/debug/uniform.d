@@ -1,0 +1,1 @@
+/home/andreaspatakis/Documents/DataStories/Trajectory\ Compression/traj-compression-rust/online/uniform/target/debug/uniform: /home/andreaspatakis/Documents/DataStories/Trajectory\ Compression/traj-compression-rust/online/uniform/src/main.rs

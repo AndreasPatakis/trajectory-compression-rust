@@ -1,0 +1,1 @@
+/home/andreaspatakis/Documents/DataStories/Trajectory\ Compression/traj-compression-rust/online/sttrace/target/debug/sttrace: /home/andreaspatakis/Documents/DataStories/Trajectory\ Compression/traj-compression-rust/online/sttrace/src/main.rs
